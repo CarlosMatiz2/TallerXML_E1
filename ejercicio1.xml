@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+<!DOCTYPE listaventas SYSTEM "ejercicio1.dtd">
+<listaventas>
+-->
+<listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio1.xsd">
+    <venta>
+        <importe>50000</importe>
+        <comprador>Carlos</comprador>
+        <vendedor>Alejandro</vendedor>
+        <fecha>2022-06-05</fecha>
+        <codigoFactura>01</codigoFactura>
+    </venta>
+    <venta>
+        <importe>50001</importe>
+        <comprador>Julian</comprador>
+        <vendedor>Sara</vendedor>
+        <fecha>2022-06-06</fecha>
+        <codigoFactura>02</codigoFactura>
+    </venta>
+</listaventas>
