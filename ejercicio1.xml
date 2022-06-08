@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<!--
+<?xml-stylesheet type="text/xsl" href="ejercicio1.xsl" ?>
 <!DOCTYPE listaventas SYSTEM "ejercicio1.dtd">
 <listaventas>
--->
+<!--
 <listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio1.xsd">
+-->
     <venta>
         <importe>50000</importe>
         <comprador>Carlos</comprador>
